@@ -1,0 +1,33 @@
+name: White Paper
+markdown: redcarpet
+pygments: true
+url: http://127.0.0.1:4000
+paginate: 8
+description: Welcome to my tiny place in the universe
+intro: Welcome to my tiny place in the universe
+logo: # logo.png
+disqus_shortname:
+# url: http://gotchacode.com
+#Comment out url when working locally to resolve base urls correctly
+#url:
+
+# Owner/author information
+owner:
+  name:   Ander Juaristi
+  avatar:
+  email:  ajuaristi@gmx.es
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:
+  github:
+  stackexchange:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
