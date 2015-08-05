@@ -13,9 +13,15 @@ disqus_shortname:
 
 # Owner/author information
 owner:
+<<<<<<< HEAD
   name:   Ander Juaristi
   avatar:
   email:  ajuaristi@gmx.es
+=======
+  name:           <your-name-here>
+  avatar:         <avatar-image-link>
+  email:          <your-email-address>
+>>>>>>> bea7bb8f8675d73c93780c5b8978682ce079d386
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   github:
@@ -30,4 +36,8 @@ google_verify:
 bing_verify:
 
 # Links to include in top navigation
+<<<<<<< HEAD
 # For external links add external: true
+=======
+# For external links add external: true
+>>>>>>> bea7bb8f8675d73c93780c5b8978682ce079d386
