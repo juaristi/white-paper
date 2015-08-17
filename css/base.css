@@ -343,7 +343,7 @@ table {
 	color: #000;
 	background: #fff;
 	border-collapse: separate;
-	font-size: 11px;
+	font-size: 12px;
 }
 
 caption {
@@ -363,6 +363,11 @@ td {
 	text-align: center;
 	padding: 3px 5px;
 }
+
+td.desc {
+	text-align: left;
+}
+
 .odd td {
 	background: #F0F1F2;
 }
