@@ -1,7 +1,7 @@
 name: White Paper
 markdown: kramdown
 pygments: true
-url: http://127.0.0.1:4000
+url: http://www.burgersoftware.es
 paginate: 8
 description: Welcome to my tiny place in the universe
 intro: Welcome to my tiny place in the universe
