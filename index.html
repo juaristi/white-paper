@@ -9,6 +9,7 @@ title: Ander Juaristi's homepage
 	<ul>
 		<li><strong>GNU Wget:</strong> This is one of my favourites. I spent many hours with it.
 		<ul>
+			<li><strong>FTPS:</strong> I wrote the <a href="{{ site.url }}/patches/added-support-for-ftps.diff">FTPS</a> support (RFC 4217, RFC 2228) for Wget. No testcases here since our test engine does not support FTP/S, yet.</li>
 			<li><strong>HSTS:</strong> I implemented <a href="{{ site.url }}/patches/support-for-hsts.diff">HSTS</a> (RFC 6797) in Wget. All the HSTS code, including the <a href="{{ site.url }}/patches/enhancements-in-testsuite-for-hsts.diff">tests</a> (which required improving the existing test engine) and the <a href="{{ site.url }}/patches/updated-hsts-documentation.diff">docs</a> were written by me, with some valuable amendments by Tim Ruehsen, another usual committer.</li>
 			<li>Also, <a href="{{ site.url }}/patches/gdb-support-in-test-suite.diff">GDB integration</a> for the test engine, written in Python, and the <a href="{{ site.url }}/patches/improved-test-suite-docs.diff">docs</a>.</li>
 			<li>Fixed a <a href="{{ site.url }}/patches/fix-incorrect-handling-of-reserved-chars.diff">long-lasting bug</a> that handled certain URLs improperly, and <a href="{{ site.url }}/patches/test-for-unescape-reserved-chars.diff">made sure it didn't appear again</a>.</li>
