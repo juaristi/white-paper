@@ -11,5 +11,5 @@ I love writing code. I always look for fast, reliable, yet beautiful code. Well 
 
 I try not to focus too much on a given CS field. One day I might be writing high-level GC-driven code, and another day I might be picking on those shy dwarves that hide in the most obscure corners of my motherboard. In spite of this slightly field-agnostic attitude, my interests lean a bit more towards high-performance networking, protocols, information security and such. By the way, I study an MSc in Information Security at the [University of London](http://www.londoninternational.ac.uk/infosec).
 
-If you want to write me, my e-mail is {% cloak_email ajuaristi gmx.es %}. I also have a [GPG public key]({{ site.url }}/files/ajuaristi.asc). If you use it, be sure to include yours too, otherwise my reply will be in plain text. Oh, and bear in mind that if you write me, I'll treat your message according to [this simple disclaimer]({{ site.url }}/disclaimer.html).
+If you want to write me, my e-mail is {% cloak_email ajuaristi gmx.es %}. I also have a [GPG public key]({{ site.url }}/about/gpg-keys.html). If you use it, be sure to include yours too, otherwise my reply will be in plain text. Oh, and bear in mind that if you write me, I'll treat your message according to [this simple disclaimer]({{ site.url }}/disclaimer.html).
 
